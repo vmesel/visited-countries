@@ -21,6 +21,7 @@ countries = [
   "haiti",
   "austria",
   "grand_bahama",
+  "colombia",
 ];
 
 countriesSigla =
